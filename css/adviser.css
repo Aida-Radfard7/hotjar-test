@@ -1,0 +1,56 @@
+.adviseri{
+    position: relative;
+    border: 1px solid #ebebeb;
+    box-shadow: 0px 1px 4px #ebebeb;
+    height: 150px;
+    border-radius: 5px;
+    width: 83.5%;
+    margin-bottom: 60px;
+    overflow: hidden;
+}
+.adviseri .bg-l{
+    position: absolute;
+    left:-6%;
+    bottom: 2%;
+}
+.adviseri img{
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    position: absolute;
+    padding: 2% 2.5%;
+}
+.advisers-introduction{
+    margin-right: 14%;
+}
+.adviser-Description{
+    margin:3% 13%;
+}
+.adviser-Description h2{
+    font-size: 14px;
+    list-style: 25px;
+    margin-bottom: -5px;
+}
+.adviser-Description p{
+    font-size: 14px;
+    line-height: 25px;
+}
+.ask-Consulting{
+    position: absolute;
+    left: 7%;
+    bottom: 45%;
+}
+.ask-Consulting a{
+    color: #00b3e9;
+}
+.dot1 , .dot2{
+    cursor: pointer;
+}
+.dot1{
+    width: 10px;
+    height: 5px;
+}
+.dot2{
+    width: 23px;
+    height: 5px;
+}
